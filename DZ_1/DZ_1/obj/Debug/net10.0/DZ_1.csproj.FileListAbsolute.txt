@@ -1,0 +1,14 @@
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\bin\Debug\net10.0\DZ_1.exe
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\bin\Debug\net10.0\DZ_1.deps.json
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\bin\Debug\net10.0\DZ_1.runtimeconfig.json
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\bin\Debug\net10.0\DZ_1.dll
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\bin\Debug\net10.0\DZ_1.pdb
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.AssemblyInfoInputs.cache
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.AssemblyInfo.cs
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.csproj.CoreCompileInputs.cache
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.dll
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\refint\DZ_1.dll
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.pdb
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\DZ_1.genruntimeconfig.cache
+C:\Users\ReQti\source\repos\DZ_1\DZ_1\obj\Debug\net10.0\ref\DZ_1.dll
